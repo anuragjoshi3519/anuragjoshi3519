@@ -11,18 +11,18 @@ I like to develop mobile and web applications and have a keen interest in Machin
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anuragjoshi.mca19.du@gmail.com)
 [![Microsoft-outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:anurag_joshi@outlook.com)
 
-#### 🌱 Currently engaged with:
-- Mobile and web application development with Flutter and Firebase.
-- Learning Data Science and Artificial Intelligence.
-- Solving algorithmic challenges. 
-
 #### :page_facing_up: My Certifications:
 - TensorFlow Developer Professional Course - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/certificate/T735KV2VCKPM)
 - Applied Data Science Module - WorldQuant University [:arrow_right:](https://wqu.thedataincubator.com/certificate/5418037578563584_full)
 - Deep Learning Specialization - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/ACYY3LNGQT6W)
 - Machine Learning Online Course - CodingBlocks [:arrow_right:](https://online.codingblocks.com/app/certificates/CBOL-24061-c9cd)
 
-#### Programming languages and tools: 
+#### 🌱 Currently occupied with:
+- Mobile and web application development with Flutter and Firebase.
+- Learning Data Science and Artificial Intelligence.
+- Solving algorithmic challenges.
+
+#### Programming languages and tools (have experience with & still learning :wink:): 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=anuragjoshi3519&show_icons=true&hide_border=true" />
 
