@@ -22,7 +22,7 @@ I like to develop mobile and web applications and have a keen interest in Machin
 - Learning Data Science and Artificial Intelligence.
 - Solving algorithmic challenges.
 
-#### Programming languages and tools (have experience with & still learning :wink:): 
+#### :pencil: Programming languages and tools (have experience with & still learning :wink:): 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=anuragjoshi3519&show_icons=true&hide_border=true" />
 
@@ -44,10 +44,11 @@ I like to develop mobile and web applications and have a keen interest in Machin
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 </p>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=anuragjoshi3519&color=green)
+<!--- ![](https://komarev.com/ghpvc/?username=anuragjoshi3519&color=green) --->
 
 #### :smiley: Do check out my repositories and feel free to contribute.
