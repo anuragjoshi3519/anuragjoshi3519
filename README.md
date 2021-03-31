@@ -19,7 +19,7 @@ I am currently pursuing Masters of Computer Applications (MCA) from Department o
 <!-- - Machine Learning Online Course - CodingBlocks [:arrow_right:](https://online.codingblocks.com/app/certificates/CBOL-24061-c9cd) -->
 
 #### 🌱 Currently occupied with:
-- Android and web application development using Flutter(for android) and ReactJs(for web) resp.
+- Android (Flutter) and web (ReactJS) application development.
 <!-- - Learning Data Science and Machine Learning. -->
 - Solving DSA problems.
 
