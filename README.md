@@ -3,7 +3,8 @@
 ### About Me
 
 I am currently pursuing Masters of Computer Applications (MCA) from Department of Computer Science, University of Delhi, India.  
-I like to develop mobile and web applications and have a keen interest in Data Science, ML and solving algorithmic and DS problems.
+
+<!-- I like to develop mobile and web applications and have a keen interest in solving algorithmic and DS problems. -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-joshi-0581a9127/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anuragjoshi3519)
@@ -19,7 +20,7 @@ I like to develop mobile and web applications and have a keen interest in Data S
 
 #### 🌱 Currently occupied with:
 - Android and web application development using Flutter(for android) and ReactJs(for web) resp.
-- Learning Data Science and Machine Learning.
+<!-- - Learning Data Science and Machine Learning. -->
 - Solving DSA problems.
 
 #### :pencil: Programming languages and tools (have experience with & still learning :wink:): 
