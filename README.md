@@ -3,7 +3,7 @@
 ### About Me
 
 I am currently pursuing Masters of Computer Applications (MCA) from Department of Computer Science, University of Delhi, India.  
-I like to develop mobile and web applications and have a keen interest in Machine Learning, Artificial Intelligence and solving algorithmic challenges.
+I like to develop mobile and web applications and have a keen interest in Data Science, ML and solving algorithmic and DS problems.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-joshi-0581a9127/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anuragjoshi3519)
@@ -11,16 +11,16 @@ I like to develop mobile and web applications and have a keen interest in Machin
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anuragjoshi.mca19.du@gmail.com)
 [![Microsoft-outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:anurag_joshi@outlook.com)
 
-#### :page_facing_up: My Certifications:
-- TensorFlow Developer Professional Course - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/certificate/T735KV2VCKPM)
-- Applied Data Science Module - WorldQuant University [:arrow_right:](https://wqu.thedataincubator.com/certificate/5418037578563584_full)
-- Deep Learning Specialization - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/ACYY3LNGQT6W)
-- Machine Learning Online Course - CodingBlocks [:arrow_right:](https://online.codingblocks.com/app/certificates/CBOL-24061-c9cd)
+<!-- #### :page_facing_up: My Certifications: -->
+<!-- - TensorFlow Developer Professional Course - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/certificate/T735KV2VCKPM) -->
+<!-- - Applied Data Science Module - WorldQuant University [:arrow_right:](https://wqu.thedataincubator.com/certificate/5418037578563584_full) -->
+<!-- - Deep Learning Specialization - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/ACYY3LNGQT6W) -->
+<!-- - Machine Learning Online Course - CodingBlocks [:arrow_right:](https://online.codingblocks.com/app/certificates/CBOL-24061-c9cd) -->
 
 #### 🌱 Currently occupied with:
-- Mobile and web application development with Flutter and Firebase.
-- Learning Data Science and Artificial Intelligence.
-- Solving algorithmic challenges.
+- Android and web application development using Flutter(for android) and ReactJs(for web) resp.
+- Learning Data Science and Machine Learning.
+- Solving DSA problems.
 
 #### :pencil: Programming languages and tools (have experience with & still learning :wink:): 
 <p>
