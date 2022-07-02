@@ -2,7 +2,8 @@
 
 ### About Me
 
-I am currently pursuing Masters of Computer Applications (MCA) from Department of Computer Science, University of Delhi, India.  
+I have a Bachelors degree in Computer Science, and Masters degree in Computer Applications (MCA) from University of Delhi, India.  
+I like to think and create solutions for real world tech problems. I also enjoy solving algorithmic problems on various coding platforms.
 
 <!-- I like to develop mobile and web applications and have a keen interest in solving algorithmic and DS problems. -->
 
@@ -18,10 +19,10 @@ I am currently pursuing Masters of Computer Applications (MCA) from Department o
 <!-- - Deep Learning Specialization - Coursera [:arrow_right:](https://www.coursera.org/account/accomplishments/specialization/ACYY3LNGQT6W) -->
 <!-- - Machine Learning Online Course - CodingBlocks [:arrow_right:](https://online.codingblocks.com/app/certificates/CBOL-24061-c9cd) -->
 
-#### 🌱 Currently occupied with:
-- Android (Flutter) and web (ReactJS) application development.
+<!-- #### 🌱 Currently occupied with: -->
+<!-- - Android (Flutter) and web (ReactJS) application development. -->
 <!-- - Learning Data Science and Machine Learning. -->
-- Solving DSA problems.
+<!-- - Solving DSA problems. -->
 
 #### :pencil: Programming languages and tools (have experience with & still learning :wink:): 
 <p>
