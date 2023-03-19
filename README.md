@@ -2,8 +2,19 @@
 
 ### About Me
 
-I have a Bachelors degree in Computer Science, and Masters degree in Computer Applications (MCA) from University of Delhi, India.  
-I like to think and create solutions for real world tech problems. I also enjoy solving algorithmic problems on various coding platforms.
+Qualifications:
+- B.Sc.(Hons) Computer Science (University of Delhi)
+- M.C.A. (University of Delhi)
+
+Worl Experience:
+- Software Development Engineer Internship - Amazon IN [Jan 2022 - June 2022]
+- Software Development Engineer - Amazon IN [July 2022 - Current]
+
+Interests:
+- Thinking and creating solutions for real world tech problems (When I feel productive)
+- Solving DSA problems and logical puzzles now and then
+- Playing chess and reading tech blogs
+- Brainstorming on Ideas (Any interesting idea whatsoever)
 
 <!-- I like to develop mobile and web applications and have a keen interest in solving algorithmic and DS problems. -->
 
