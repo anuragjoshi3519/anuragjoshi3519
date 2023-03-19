@@ -1,4 +1,4 @@
-### Hey! 👋 Anurag Joshi here.
+### Hey 👋
 
 ### About Me
 
