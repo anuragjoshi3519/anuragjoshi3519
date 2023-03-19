@@ -6,7 +6,7 @@ Qualifications:
 - B.Sc.(Hons) Computer Science (University of Delhi)
 - M.C.A. (University of Delhi)
 
-Worl Experience:
+Work Experience:
 - Software Development Engineer Internship - Amazon IN [Jan 2022 - June 2022]
 - Software Development Engineer - Amazon IN [July 2022 - Current]
 
