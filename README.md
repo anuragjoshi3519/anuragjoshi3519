@@ -7,8 +7,8 @@ Qualifications:
 - M.C.A. (University of Delhi)
 
 Work Experience:
+- Software Development Engineer - Amazon IN [July 2022 - July 2023]
 - Software Development Engineer Internship - Amazon IN [Jan 2022 - June 2022]
-- Software Development Engineer - Amazon IN [July 2022 - Current]
 
 Interests:
 - Thinking and creating solutions for real world tech problems (When I feel productive)
