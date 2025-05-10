@@ -7,14 +7,17 @@ Qualifications:
 - M.C.A. (University of Delhi)
 
 Work Experience:
+- Software Engineer III - Google India [August 2023 - Present]
 - Software Development Engineer - Amazon IN [July 2022 - July 2023]
 - Software Development Engineer Internship - Amazon IN [Jan 2022 - June 2022]
 
+<!--
 Interests:
 - Thinking and creating solutions for real world tech problems (When I feel productive)
 - Solving DSA problems and logical puzzles now and then
 - Playing chess and reading tech blogs
-- Brainstorming on Ideas (Any interesting idea whatsoever)
+- Brainstorming on ideas (Any interesting idea whatsoever)
+-->
 
 <!-- I like to develop mobile and web applications and have a keen interest in solving algorithmic and DS problems. -->
 
