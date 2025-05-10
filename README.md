@@ -45,7 +45,7 @@ Interests:
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <br />
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -60,7 +60,6 @@ Interests:
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 </p>
 <br/>
